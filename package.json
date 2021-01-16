@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ojisan-toybox/preact-storybook#readme",
   "dependencies": {
+    "goober": "^2.0.21",
     "preact": "^10.5.9"
   },
   "devDependencies": {
