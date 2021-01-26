@@ -1,6 +1,8 @@
-/** @jsx h */
+import { setup } from "goober";
 import { h } from "preact";
 import { Button } from "./button";
+
+setup(h);
 
 export default {
   title: "custom/Button",
