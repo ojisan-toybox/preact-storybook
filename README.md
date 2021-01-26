@@ -1,2 +1,11 @@
 # preact-storybook
-preact + strobybook の実験
+
+storybook with preact + TypeScript + goober
+
+## start
+
+```sh
+npm install
+
+npm run storybook
+```
